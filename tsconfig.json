@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "module": "ES2020",
+        "target": "ES2017",
+        "noImplicitAny": true,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": false,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "rootDir": "./src",
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "emitDecoratorMetadata": true,
+        "moduleResolution": "node",
+        "baseUrl": "./src",
+        "paths": {
+            "/*": ["./*"]
+        }
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
