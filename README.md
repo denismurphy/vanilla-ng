@@ -24,14 +24,6 @@ Designed for optimal performance, vanilla-ng keeps your application swift and re
 ### 📘 TypeScript Support
 Develop with confidence using full TypeScript support for enhanced developer experience and type safety.
 
-## 🤝 Contributing
-
-We welcome contributions and suggestions to improve this library! If you encounter a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
-## 👨‍💻 Authors
-
-- **Denis Murphy**
-
 ## 📄 License
 
 This code is licensed under the MIT License.
